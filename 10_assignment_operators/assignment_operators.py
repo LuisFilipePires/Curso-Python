@@ -54,3 +54,20 @@ number = 10
 number %= 3
 print("number = 10, number %=3 ", number, sep=": ")
 
+"""
+output:
+3
+3
+list1:  [10, 2, 3]
+list01:  [10, 20, 30, 40, 50, 60, 70]
+list02:  [573, 20, 30, 40, 50, 60, 70]
+q: 100: w: 100
+q: 2: w: 8
+q: 8: w: 2
+number += 2: 3
+number *= 10: 30
+number **=3 : 27000
+number = 10, number /=3 : 3.3333333333333335
+number = 10, number //=3 : 3
+number = 10, number %=3 : 1
+"""
