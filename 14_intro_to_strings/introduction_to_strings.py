@@ -99,4 +99,83 @@ text2 = "{} how are {} {}"
 print(text2.format("Hello", "you", "today?"))
 
 
+"""
+output:
+
+Grace Hopper
+type programmer:  <class 'str'>
+type computer:  <class 'str'>
+
+The ship in port is safe
+but that's not what ships
+are built for
+
+type (quote1):  <class 'str'>
+
+it's yeaser to ask
+forgiveness than it is to
+get permission
+
+type (quote2):  <class 'str'>
+school:  yale university
+school [0] index:  y
+type(school[0]):  <class 'str'>
+school[5]:  u
+school[0:4]:  yale
+school[5:]:  university
+len(school):  15
+Schools are NOT the same
+i
+n
+v
+e
+n
+t
+e
+d
+ 
+o
+n
+e
+ 
+o
+f
+ 
+t
+h
+e
+ 
+1
+t
+h
+ 
+l
+i
+n
+k
+e
+r
+s
+invented one of the 1th linkers
+e count:  5
+one IS  in text
+two is NOT in text
+    BORN IN NEW YORK CITY  
+    born in new york city  
+Born In New York City
+    Born In New Fork City  
+['Born', 'In', 'New', 'York', 'City']
+Grace Hopper
+adress first name:  0xe9405d58b030
+hex(id(last_name)): 0xe9405d58b0c0
+hex(id(full_name)):  0xe9405d531ef0
+Line One
+Line 2
+hex(id(person1)):  0xe9405d58b510
+hex(id(person2):  0xe9405d58b510
+format to 1980:  Born in the year 1980
+Hello how are you today?
+
+"""
+
 
