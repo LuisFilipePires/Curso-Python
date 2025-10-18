@@ -5,7 +5,7 @@ new_string = string.capitalize()
 
 print(new_string)
 
-#capitalize method creates a new string
+#capitalize method creates and return a new string
 print(string)
 
 '''
