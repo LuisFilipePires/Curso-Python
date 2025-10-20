@@ -3,7 +3,7 @@ Python progress
 
 # Python Course 🐍
 Repository with my projects from the Python course.  
-YouTube channel: [👉 Click here](https://www.youtube.com/@PortfolioCourses/featured)
+YouTube channel: <a href="https://www.youtube.com/@PortfolioCourses/featured" target="_blank">👉 Click here</a>
 
 #python #learning #programming
 
