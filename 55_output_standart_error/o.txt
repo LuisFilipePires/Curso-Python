@@ -1,0 +1,3 @@
+Standard error
+error message
+WARNING:root:Warning message
